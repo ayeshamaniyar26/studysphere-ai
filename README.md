@@ -21,6 +21,8 @@
 **StudySphere AI** is an intelligent, AI-powered educational assistant that helps students study smarter, not harder. Built entirely with **free APIs** and designed to run locally, it transforms documents, images, and web content into interactive study materials including summaries, quizzes, flashcards, and more.
 
 **⚠️ Note:** This is a **personal study tool** designed for individual use with your own Gemini API key. It uses free-tier APIs and is optimized for local deployment. Future versions may support multi-user deployment with enhanced infrastructure.
+Try the live app here: [**StudySphere AI**](  https://studysphere-ai.streamlit.app/)
+⚠ Uses a free API key — may stop working if the limit is reached.
 
 Perfect for students, educators, and lifelong learners who want to maximize their learning efficiency with cutting-edge AI technology—without paying for premium services!
 
