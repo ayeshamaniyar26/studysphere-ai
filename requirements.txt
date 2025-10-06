@@ -5,7 +5,8 @@ python-docx==1.1.0
 python-pptx==0.6.23
 Pillow==10.2.0
 chromadb==0.4.22
-torch==2.0.1
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.0.1+cpu
 transformers==4.30.2
 sentence-transformers==2.2.2
 numpy==1.24.3
