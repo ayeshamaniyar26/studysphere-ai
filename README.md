@@ -134,7 +134,7 @@ Retrieval → Context → Gemini → Answer → (Optional) Self-Correction
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/studysphere-ai.git
+git clone https://github.com/ayeshamaniyar26/studysphere-ai.git
 cd studysphere-ai
 ```
 
@@ -239,25 +239,40 @@ studysphere-ai/
 ├── 📁 data/                       # Sample data (optional)
 │   └── sample.pdf                # Example document
 │
+├── 📁 screenshots/ # Screenshots for README
+│      ├── dashboard.png
+|      |── summary.png
+|      ├── interactive_quiz.png
+│      ├── study_flashcards.png
+│      ├── ai_tutor.png
+│      └── semantic_search.png
+│      
+|
 └── 📁 .streamlit/                 # Streamlit config (optional)
     └── config.toml               # Theme and settings
 ```
 
 ---
-
 ## 📸 Screenshots
 
 ### Dashboard
-*Coming soon - Upload your screenshots here!*
+![Dashboard](screenshots/dashboard.png)
 
 ### Summary Generation
-*Coming soon - Upload your screenshots here!*
+![Summary Generation](screenshots/summary.png)
 
 ### Interactive Quiz
-*Coming soon - Upload your screenshots here!*
+![Interactive Quiz](screenshots/interactive_quiz.png)
+
+
+### Study Flashcards
+![Interactive Quiz](screenshots/study_flashcards.png)
 
 ### AI Tutor
-*Coming soon - Upload your screenshots here!*
+![AI Tutor](screenshots/ai_tutor.png)
+
+### Semantic Search
+![Semantic Search](screenshots/semantic_search.png)
 
 ---
 
@@ -348,10 +363,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Contact & Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/studysphere-ai/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/studysphere-ai/discussions)
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/ayeshamaniyar26/studysphere-ai/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/ayeshamaniyar26/studysphere-ai/discussions)
+- 📧 **Email**: ayeshamaniyar2601@gmail.com
+- 💼 **LinkedIn**: [My Profile](https://www.linkedin.com/in/ayesha-maniyar-6771692a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -363,7 +378,7 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Ayesha Maniyar**
 
 *Study smarter, not harder* 🎓
 
